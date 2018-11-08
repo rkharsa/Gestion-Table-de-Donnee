@@ -1,0 +1,31 @@
+Create_table Calendrier 3 evenement DATE description TEXT pays TEXT
+Insert_enregistrement Calendrier 07/06/1494 Traite_Tordesillas Espagne
+Insert_enregistrement Calendrier 10/08/1539 Ordonnance_Villers_Cotterets France
+Insert_enregistrement Calendrier 13/04/1598 Edit_Nantes France
+Insert_enregistrement Calendrier 28/05/1936 Machine_Turing Angleterre
+Insert_enregistrement Calendrier 14/10/1066 Bataille_Hastings Angleterre
+Insert_enregistrement Calendrier 19/08/1274 Sacre_Edouard_I Angleterre
+Insert_enregistrement Calendrier 07/10/1337 Guerre_Cent_Ans France
+Delete_enregistrement Calendrier 4
+Afficher_enregistrement Calendrier 2
+Insert_enregistrement Calendrier 13/09/1515 Bataille_Marignan France
+Insert_enregistrement Calendrier 02/09/1666 Incendie_Londres Angleterre
+Insert_enregistrement Calendrier 21/01/1793 Mort_Louix_XVI France
+Afficher_enregistrements Calendrier
+Delete_table Calendrier
+Create_table Voiture 4 marque TEXT modele TEXT version INT sortie DATE
+Insert_enregistrement Voiture Renault Reinastella 1 03/10/1929 
+Insert_enregistrement Voiture Ford Fiesta 1 05/11/1976 
+Insert_enregistrement Voiture Maserati Ghibli 1 29/10/1966
+Insert_enregistrement Voiture Citroen AX 14 20/09/1988
+Insert_enregistrement Voiture Toyota Yaris 3 22/12/2010
+Insert_enregistrement Voiture Buick Verano 2 28/03/2016
+Insert_enregistrement Voiture Renault Scenic 3 05/03/2009 
+Afficher_enregistrements Voiture
+Delete_enregistrement Voiture 5
+Insert_enregistrement Voiture Renault Megane 4 05/09/2015 
+Insert_enregistrement Voiture Lancia Flavia 1 05/04/1960
+Insert_enregistrement Voiture Toyota Yaris 2 28/01/2006
+Delete_enregistrement Voiture 5
+Afficher_enregistrement Voiture 2
+Exit

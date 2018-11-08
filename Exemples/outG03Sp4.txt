@@ -1,0 +1,18 @@
+2 DATE 10/08/1539 TEXT Ordonnance_Villers_Cotterets TEXT France
+1 DATE 07/06/1494 TEXT Traite_Tordesillas TEXT Espagne
+2 DATE 10/08/1539 TEXT Ordonnance_Villers_Cotterets TEXT France
+3 DATE 13/04/1598 TEXT Edit_Nantes TEXT France
+4 DATE 14/10/1066 TEXT Bataille_Hastings TEXT Angleterre
+5 DATE 19/08/1274 TEXT Sacre_Edouard_I TEXT Angleterre
+6 DATE 07/10/1337 TEXT Guerre_Cent_Ans TEXT France
+7 DATE 13/09/1515 TEXT Bataille_Marignan TEXT France
+8 DATE 02/09/1666 TEXT Incendie_Londres TEXT Angleterre
+9 DATE 21/01/1793 TEXT Mort_Louix_XVI TEXT France
+1 TEXT Renault TEXT Reinastella INT 1 DATE 03/10/1929
+2 TEXT Ford TEXT Fiesta INT 1 DATE 05/11/1976
+3 TEXT Maserati TEXT Ghibli INT 1 DATE 29/10/1966
+4 TEXT Citroen TEXT AX INT 14 DATE 20/09/1988
+5 TEXT Toyota TEXT Yaris INT 3 DATE 22/12/2010
+6 TEXT Buick TEXT Verano INT 2 DATE 28/03/2016
+7 TEXT Renault TEXT Scenic INT 3 DATE 05/03/2009
+2 TEXT Ford TEXT Fiesta INT 1 DATE 05/11/1976

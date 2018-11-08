@@ -1,0 +1,37 @@
+Create_table Pays 5 nom TEXT  pib INT capitale TEXT latitude FLOAT longitude FLOAT
+Afficher_schema Pays
+Insert_enregistrement Pays Turquie 10946 Ankara 39.92 32.86
+Insert_enregistrement Pays Chine 6807 Pekin 39.92 116.44
+Insert_enregistrement Pays Allemagne 45085 Berlin 52.52 13.41
+Insert_enregistrement Pays Mexique 11180 Mexico 19.42 -99.12
+Insert_enregistrement Pays Canada 51958 Ottawa 45.41 -75.69
+Insert_enregistrement Pays Nigeria 3006 Lagos 6.45 3.39
+Insert_enregistrement Pays Australie 67468 Melbourne -37.81 144.96
+Insert_enregistrement Pays Bresil 11208 Brasilia -22.45 -49.23
+Insert_enregistrement Pays Japon 38492 Tokyo 35.70 139.73
+Insert_enregistrement Pays Zimbabwe 906 Harare -17.82 31.03
+Insert_enregistrement Pays Russie 14555 Moscou 55.75 37.61
+Insert_enregistrement Pays Maroc 3083 Rabat 33.97 -6.84
+Insert_enregistrement Pays France 41421 Paris 48.85 2.35
+Insert_enregistrement Pays Singapour 55182 Singapour 1.35 103.81
+Afficher_enregistrements Pays
+Delete_enregistrement Pays 10
+Insert_enregistrement Pays Indonesie 3475 Jakarta -6.17 106.82
+Delete_enregistrement Pays 1
+Afficher_enregistrement Pays 10
+Delete_table Pays
+Create_table Calendrier 3 evenement DATE description TEXT pays TEXT
+Afficher_schema Calendrier
+Insert_enregistrement Calendrier 14/10/1066 Bataille_Hastings Angleterre
+Insert_enregistrement Calendrier 19/08/1274 Sacre_Edouard_I Angleterre
+Insert_enregistrement Calendrier 07/10/1337 Guerre_Cent_Ans France
+Insert_enregistrement Calendrier 07/06/1494 Traite_Tordesillas Espagne
+Insert_enregistrement Calendrier 13/09/1515 Bataille_Marignan France
+Insert_enregistrement Calendrier 10/08/1539 Ordonnance_Villers_Cotterets France
+Afficher_enregistrement Calendrier 2
+Insert_enregistrement Calendrier 13/04/1598 Edit_Nantes France
+Insert_enregistrement Calendrier 02/09/1666 Incendie_Londres Angleterre
+Insert_enregistrement Calendrier 21/01/1793 Mort_Louix_XVI France
+Insert_enregistrement Calendrier 28/05/1936 Machine_Turing Angleterre
+Afficher_enregistrements Calendrier
+Exit
