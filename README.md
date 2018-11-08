@@ -2,8 +2,8 @@
 DUT Paris Descartes Projet 
 # Langage
 * C (Sans POO)
-`*  Utilsation des structures de données 
-`*  Utilsation des  pointeurs
+ `* Utilsation des structures de données `
+ `*  Utilsation des  pointeurs`
 # Présentation du projet et des fonctionnalitées
 Nous avions pour but de créer un programme pouvant créer et gérer une table de données. Le programme devait pouvoir interpréter des commandes afin d’afficher, de créer, modifier ou supprimer une table de donnée et enregistrement. Pour ce faire nous devions créer sept commandes. Trois d’entre elles servent à créer, afficher et supprimer une table. quatre d’entre elles servent à insérer des données dans une table, supprimer des données, en sélectionner et afficher un ou tous les enregistrements. 
 
