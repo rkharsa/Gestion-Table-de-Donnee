@@ -2,6 +2,8 @@
 DUT Paris Descartes Projet 
 # Langage
 * C (Sans POO)
+`* Une sous-puce`
+`* Une autre sous-puce`
  * Utilsation des structures de données `
  *  Utilsation des  pointeurs`
 # Présentation du projet et des fonctionnalitées
