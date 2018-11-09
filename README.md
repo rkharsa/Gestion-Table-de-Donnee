@@ -40,4 +40,4 @@ Enfin, la dernière commande doit permettre à l’utilisateur de supprimer une 
 #### Delete_enregistrement Nomdelatable Numenregistrement
 
 <h2> Auteur </h2>
-####  Rani Kharsa 
+<strong>  Rani Kharsa </strong>
