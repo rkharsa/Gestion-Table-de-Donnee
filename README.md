@@ -8,10 +8,10 @@ DUT Paris Descartes Projet
 ## Prerequis
 * Visual Studio version 2015 ou ulterieurs
 
-## Présentation du projet et des fonctionnalitées
+## Présentation
 Nous avions pour but de créer un programme pouvant créer et gérer une table de données. Le programme devait pouvoir interpréter des commandes afin d’afficher, de créer, modifier ou supprimer une table de donnée et enregistrement. Pour ce faire nous devions créer sept commandes. Trois d’entre elles servent à créer, afficher et supprimer une table. quatre d’entre elles servent à insérer des données dans une table, supprimer des données, en sélectionner et afficher un ou tous les enregistrements. 
 
-
+## Les Fonctionnalitées
 La première fonction de création d’une table doit permettre de créer une table comportant un certain nombre de champs et nom et types différents. La commande s’écrit sous la forme :                  
 #### Create_table Nomdelatable Nbdechamps Nomduchamp1 Typeduchamp1 Nomduchamp2 Typeduchamp2
 
@@ -32,3 +32,6 @@ La fonction suivante doit elle aussi afficher des données mais cette fois elle 
 
 Enfin, la dernière commande doit permettre à l’utilisateur de supprimer une ligne d’enregistrement dans une table. Elle s’écrit : 
 #### Delete_enregistrement Nomdelatable Numenregistrement
+
+## Auteur
+Rani Kharsa 
