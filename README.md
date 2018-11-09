@@ -39,7 +39,8 @@ La fonction suivante doit elle aussi afficher des données mais cette fois elle 
 Enfin, la dernière commande doit permettre à l’utilisateur de supprimer une ligne d’enregistrement dans une table. Elle s’écrit: 
 #### Delete_enregistrement Nomdelatable Numenregistrement
 <h2> Utilsation </h2>
-Pour mieux comprendre le fonctionnement du programme des exemples de commandes sont mis a disposition. il vous suffit de copier et coller dans la console pour voir le resultat
+Pour mieux comprendre le fonctionnement du programme des exemples de commandes sont mis a disposition. il vous suffit de copier et coller dans la console pour voir le resultat 
+<br>
 <img src='https://i.postimg.cc/3R7T7Qj3/2018-11-09-2.png' border='0' alt='2018-11-09-2'/>
 <h2> Auteur </h2>
 <strong>  Rani Kharsa </strong>
