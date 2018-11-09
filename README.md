@@ -18,6 +18,7 @@ Nous avions pour but de créer un programme pouvant créer et gérer une table d
 
 <h2> Les Fonctionnalitées </h2>
 La première fonction de création d’une table doit permettre de créer une table comportant un certain nombre de champs et nom et types différents. La commande s’écrit sous la forme : 
+
 #### Create_table Nomdelatable Nbdechamps Nomduchamp1 Typeduchamp1 Nomduchamp2 Typeduchamp2
 
 La seconde fonction doit simplement permettre de supprimer une table de donnée. La commande s’écrit sous la forme :
