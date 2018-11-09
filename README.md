@@ -1,7 +1,7 @@
 <h1> Interpreteur de Commandes : Gestion Table de Donnee </h1>
 DUT Paris Descartes Projet 
 <h2> Pour Demarrer </h2>
-<h1> Langage </h1>
+<h3> Langage </h3>
 <ul>
   <li> C (Sans POO)
   <ul>
@@ -40,4 +40,4 @@ Enfin, la dernière commande doit permettre à l’utilisateur de supprimer une 
 #### Delete_enregistrement Nomdelatable Numenregistrement
 
 <h2> Auteur </h2>
-Rani Kharsa 
+####  Rani Kharsa 
