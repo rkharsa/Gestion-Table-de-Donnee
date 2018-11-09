@@ -1,7 +1,7 @@
 <h1> Interpreteur de Commandes : Gestion Table de Donnee </h1>
 DUT Paris Descartes Projet 
 <h2> Pour Demarrer </h2>
-<h3> Langage </h3>
+## Langage 
 <ul>
   <li> C (Sans POO)
   <ul>
