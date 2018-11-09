@@ -24,13 +24,13 @@ La fonction suivante doit permettre d’afficher une table en affichant les cham
 La quatrième fonction doit permettre d’insérer un enregistrement contenant des données pour chaque champ en fin de table. La commande s’écrit sous la forme :                         
 #### Insert_enregistrement Nomdelatable Datachamp1 Datachamp2
 
-La cinquième doit permettre d’afficher une ligne de donnée en fonction du numéro d’enregistrement entré. La commande s’écrit : 
+La cinquième doit permettre d’afficher une ligne de donnée en fonction du numéro d’enregistrement entré. La commande s’écrit: 
 #### Afficher_enregistrement Nomdelatable Numenregistrement
 
-La fonction suivante doit elle aussi afficher des données mais cette fois elle doit toute les affichées. La commande s’écrit : 
+La fonction suivante doit elle aussi afficher des données mais cette fois elle doit toute les affichées. La commande s’écrit: 
 #### Afficher_enregistrements Nomdelatable
 
-Enfin, la dernière commande doit permettre à l’utilisateur de supprimer une ligne d’enregistrement dans une table. Elle s’écrit : 
+Enfin, la dernière commande doit permettre à l’utilisateur de supprimer une ligne d’enregistrement dans une table. Elle s’écrit: 
 #### Delete_enregistrement Nomdelatable Numenregistrement
 
 ## Auteur
