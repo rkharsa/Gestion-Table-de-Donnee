@@ -40,7 +40,6 @@ Enfin, la dernière commande doit permettre à l’utilisateur de supprimer une 
 #### Delete_enregistrement Nomdelatable Numenregistrement
 <h2> Utilsation </h2>
 Pour mieux comprendre le fonctionnement du programme des exemples de commandes sont mis a disposition. il vous suffit de copier et coller dans la console pour voir le resultat
-
-<a href='https://postimg.cc/Fkb1L9C3' target='_blank'><img src='https://i.postimg.cc/Fkb1L9C3/2018-11-09-2.png' border='0' alt='2018-11-09-2'/></a>
+<img src='https://i.postimg.cc/Fkb1L9C3/2018-11-09-2.png' border='0' alt='2018-11-09-2'/>
 <h2> Auteur </h2>
 <strong>  Rani Kharsa </strong>
