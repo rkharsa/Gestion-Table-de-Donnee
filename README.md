@@ -2,9 +2,14 @@
 DUT Paris Descartes Projet 
 <h2> Pour Demarrer </h2>
 <h3> Langage </h3>
-* C (Sans POO)
- * Utilsation des structures de données
- *  Utilsation des  pointeurs
+<ul>
+  <li> C (Sans POO)
+  <ul>
+    <li> Utilsation des structures de données </li>
+    <li> Utilsation des  pointeurs </li>
+    </ul>
+  </li>
+  
 <h3> Prerequis </h3>
 * Visual Studio version 2015 ou ulterieurs
 
